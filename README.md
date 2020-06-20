@@ -1,4 +1,5 @@
 # ProjectOne
+#All Question 3 contributions were from Carlee Young.
 
 Is there a correlation between unemployment and migration against humidity and temperature over time? Does this make Kansas or the United States a great place to live? The data shows Kansas is consistently lower in unemployment than the national United States average over a twenty-year period (2000-2020). Unemployment and migration are visually poorly correlated in Kansas during 2018. Future directions of multiple representative (possibly by grouped regions) linear trends tracking an index of unemployment and migration, possibly along with other related variables, over time is required to surface trends. The ten most populous cities in the United States, based on a Google Search, did not show a strong correlation between unemployment and temperature and humidity. More information might provide value based on demographic grouping and environmental preferences along with expanding the dataset population to include the world.  
 
